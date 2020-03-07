@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.iryston.araxis-merge</string>
+	<key>category</key>
+	<string>Productivity</string>
+	<key>connections</key>
+	<dict>
+		<key>2ECD4A51-0744-4366-9326-1F33DCCCF01F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BFD97C5B-6173-4CC4-B6C0-3EA80F606849</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>596C8F32-3277-466A-B9E8-4F42925734AB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5D4E689F-4F3B-46E2-A1B9-607511D27BD3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6D6E5D42-3DEE-435B-B8B5-91F000501E75</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8E8D6798-F18E-47B7-97CF-AC1B8C5C649D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>723B0F1E-7580-41D3-BA0C-14A3C5982D86</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8E8D6798-F18E-47B7-97CF-AC1B8C5C649D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7E2330BD-AE35-4BA0-967A-E55076FD4312</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AF83FCA3-8CDA-48EA-9328-E3381A4AF74F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>822E24BA-A87A-4A78-B550-8F1D6CB865F9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BFD97C5B-6173-4CC4-B6C0-3EA80F606849</string>
+				<key>modifiers</key>
+				<integer>131072</integer>
+				<key>modifiersubtext</key>
+				<string>Queue for Comparison Using Araxis Merge</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>8E8D6798-F18E-47B7-97CF-AC1B8C5C649D</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>Compare with Queue Using Araxis Merge</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>AF83FCA3-8CDA-48EA-9328-E3381A4AF74F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>5D4E689F-4F3B-46E2-A1B9-607511D27BD3</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>Clear Araxis Merge Queue</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8905E783-ECCF-4F20-8225-57E8A8663A0C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AF83FCA3-8CDA-48EA-9328-E3381A4AF74F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A9D5809C-E43B-4D97-8228-F0B78B869D60</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1CA2B375-568E-4630-B5DD-65071F1D5F01</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D807F5FC-B628-48FC-B632-79C32C3748FC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BFD97C5B-6173-4CC4-B6C0-3EA80F606849</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D8F00D52-A8AE-4A4A-A24B-156419EC5896</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5D4E689F-4F3B-46E2-A1B9-607511D27BD3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Igor R. Plity</string>
+	<key>description</key>
+	<string>Compare files or folders in Araxis Merge</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Araxis Merge v1.0.0</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>D807F5FC-B628-48FC-B632-79C32C3748FC</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Finder" to set theSel to selection as alias list
+if length of theSel is greater than 0 then
+	tell application "Araxis Merge"
+		launch
+		repeat with filePath in theSel
+			queue (the POSIX path of filePath)
+		end repeat
+	end tell
+else
+	tell application "Alfred" to run trigger "NoSelection" in workflow "com.iryston.araxis-merge"
+end if</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>BFD97C5B-6173-4CC4-B6C0-3EA80F606849</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<true/>
+				<key>filetypes</key>
+				<array/>
+				<key>name</key>
+				<string>Queue for Comparison Using Araxis Merge</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>2ECD4A51-0744-4366-9326-1F33DCCCF01F</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>723B0F1E-7580-41D3-BA0C-14A3C5982D86</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Finder" to set theSel to selection as alias list
+if length of theSel is greater than 0 then
+	tell application "Araxis Merge"
+		launch
+		repeat with filePath in theSel
+			queue (the POSIX path of filePath)
+		end repeat
+		compare queue
+		activate
+	end tell
+	return theSel
+else
+	tell application "Alfred" to run trigger "NoSelection" in workflow "com.iryston.araxis-merge"
+end if</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>8E8D6798-F18E-47B7-97CF-AC1B8C5C649D</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<true/>
+				<key>filetypes</key>
+				<array/>
+				<key>name</key>
+				<string>Compare with Queue Using Araxis Merge</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>6D6E5D42-3DEE-435B-B8B5-91F000501E75</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>NoSelection</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>A9D5809C-E43B-4D97-8228-F0B78B869D60</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>compare</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Compare Using Araxis Merge</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>822E24BA-A87A-4A78-B550-8F1D6CB865F9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Nothing selected</string>
+				<key>title</key>
+				<string>Araxis Merge</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>1CA2B375-568E-4630-B5DD-65071F1D5F01</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>8905E783-ECCF-4F20-8225-57E8A8663A0C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Finder" to set theSel to selection as alias list
+if length of theSel is greater than 0 then
+	tell application "Araxis Merge"
+		launch
+		clear queue
+		repeat with filePath in theSel
+			queue (the POSIX path of filePath)
+		end repeat
+		compare queue
+		activate
+	end tell
+else
+	tell application "Alfred" to run trigger "NoSelection" in workflow "com.iryston.araxis-merge"
+end if</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>AF83FCA3-8CDA-48EA-9328-E3381A4AF74F</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<true/>
+				<key>filetypes</key>
+				<array/>
+				<key>name</key>
+				<string>Compare Using Araxis Merge</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>7E2330BD-AE35-4BA0-967A-E55076FD4312</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>1</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>0</integer>
+				<key>hotmod</key>
+				<integer>0</integer>
+				<key>hotstring</key>
+				<string></string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>D8F00D52-A8AE-4A4A-A24B-156419EC5896</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<true/>
+				<key>filetypes</key>
+				<array/>
+				<key>name</key>
+				<string>Clear Araxis Merge Queue</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>596C8F32-3277-466A-B9E8-4F42925734AB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>tell application "Araxis Merge"
+	launch
+	clear queue
+end tell</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>5D4E689F-4F3B-46E2-A1B9-607511D27BD3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string># Alfred Araxis Merge
+
+Alfred workflow to compare and merge files and folders using Araxis Merge.
+
+Keywords:
+
+- compare - Compare selected items.
+- compare (Shift) - Queue selected items for comparison.
+- compare (Option) - Compare with queue.
+- compare (Control) - Clear Araxis Merge queue.
+
+File actions:
+
+- Compare selected items.
+- Queue selected items for comparison.
+- Compare with queue.
+- Clear Araxis Merge queue.
+
+Hotkeys can be assigned to each action.</string>
+	<key>uidata</key>
+	<dict>
+		<key>1CA2B375-568E-4630-B5DD-65071F1D5F01</key>
+		<dict>
+			<key>xpos</key>
+			<integer>600</integer>
+			<key>ypos</key>
+			<integer>420</integer>
+		</dict>
+		<key>2ECD4A51-0744-4366-9326-1F33DCCCF01F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>210</integer>
+			<key>ypos</key>
+			<integer>120</integer>
+		</dict>
+		<key>596C8F32-3277-466A-B9E8-4F42925734AB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>210</integer>
+			<key>ypos</key>
+			<integer>825</integer>
+		</dict>
+		<key>5D4E689F-4F3B-46E2-A1B9-607511D27BD3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>435</integer>
+			<key>ypos</key>
+			<integer>825</integer>
+		</dict>
+		<key>6D6E5D42-3DEE-435B-B8B5-91F000501E75</key>
+		<dict>
+			<key>xpos</key>
+			<integer>10</integer>
+			<key>ypos</key>
+			<integer>355</integer>
+		</dict>
+		<key>723B0F1E-7580-41D3-BA0C-14A3C5982D86</key>
+		<dict>
+			<key>xpos</key>
+			<integer>10</integer>
+			<key>ypos</key>
+			<integer>245</integer>
+		</dict>
+		<key>7E2330BD-AE35-4BA0-967A-E55076FD4312</key>
+		<dict>
+			<key>xpos</key>
+			<integer>10</integer>
+			<key>ypos</key>
+			<integer>590</integer>
+		</dict>
+		<key>822E24BA-A87A-4A78-B550-8F1D6CB865F9</key>
+		<dict>
+			<key>xpos</key>
+			<integer>210</integer>
+			<key>ypos</key>
+			<integer>420</integer>
+		</dict>
+		<key>8905E783-ECCF-4F20-8225-57E8A8663A0C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>10</integer>
+			<key>ypos</key>
+			<integer>480</integer>
+		</dict>
+		<key>8E8D6798-F18E-47B7-97CF-AC1B8C5C649D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>210</integer>
+			<key>ypos</key>
+			<integer>245</integer>
+		</dict>
+		<key>A9D5809C-E43B-4D97-8228-F0B78B869D60</key>
+		<dict>
+			<key>xpos</key>
+			<integer>400</integer>
+			<key>ypos</key>
+			<integer>420</integer>
+		</dict>
+		<key>AF83FCA3-8CDA-48EA-9328-E3381A4AF74F</key>
+		<dict>
+			<key>xpos</key>
+			<integer>210</integer>
+			<key>ypos</key>
+			<integer>590</integer>
+		</dict>
+		<key>BFD97C5B-6173-4CC4-B6C0-3EA80F606849</key>
+		<dict>
+			<key>xpos</key>
+			<integer>435</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>D807F5FC-B628-48FC-B632-79C32C3748FC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>210</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>D8F00D52-A8AE-4A4A-A24B-156419EC5896</key>
+		<dict>
+			<key>xpos</key>
+			<integer>210</integer>
+			<key>ypos</key>
+			<integer>715</integer>
+		</dict>
+	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.0</string>
+	<key>webaddress</key>
+	<string>https://github.com/iryston/alfred-araxis-merge</string>
+</dict>
+</plist>
